@@ -1,0 +1,5 @@
+[aria-label="Timeline: Your Home Timeline"], [data-testid="sidebarColumn"] {
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+}
